@@ -1,9 +1,13 @@
 CS 129/296 Web Search and Information Retrieval
+===============================================
 
 Introduction
+-------------------------------
 In this assignment, you will develop different algorithms to make recommendations for movies.
 You are free to choose any programming language that you like.
+
 Movie Recommendation System
+--------------------------------
 The Training Data
 The training data: a set of movie ratings by 200 users (userid: 1-200) on 1000 movies (movieid: 1-1000). The data is stored in a 200 row x 1000 column table. Each row represents one user. Each column represents one movie. A rating is a value in the range of 1 to 5, where 1 is "least favored" and 5 is "most favored". Please NOTE that a value of 0 means that the user has not explicitly rated the movie.
 Please download the training data here: train.txt.
