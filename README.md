@@ -45,13 +45,17 @@ You can also try model-based methods.
 
 Some references can be found:
 Pennock, D. M., Horvitz, E., Lawrence, S., & Giles, C. L. (2000). Collaborative Filtering by Personality Diagnosis: A Hybrid Memory- and Model-Based Approach. In the Proceeding of the Sixteenth Conference on Uncertainty in Artificial Intelligence. (pdf)
+
 Hofmann, T., & Puzicha, J. (1999). Latent Class Models for Collaborative Filtering. In the Proceedings of International Joint Conference on Artificial Intelligence. (pdf)
+
 The grading will be based on the novelty and performance of the algorithm.
 
 4. Results Discussion (15 points)
 
 Please provide the following information
+
 1. Compare the accuracy of the various algorithms. Do you think your results are reasonable? How can you justify the results by analyzing the advantages and disadvantages of the algorithms?
+
 2. Discuss the efficiency of the algorithms.
 
 Bonus:
@@ -72,4 +76,4 @@ Rest: 0
 
 What to turn in
 1. Please write a report of your experiments.
-2. 2. Please send your report with the code to yfang@scu.edu.
+2. Please send your report with the code to [yfang@scu.edu].
