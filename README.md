@@ -72,4 +72,4 @@ Rest: 0
 
 What to turn in
 1. Please write a report of your experiments.
-2. Please send your report with the code to yfang@scu.edu.
+2. 2. Please send your report with the code to yfang@scu.edu.
