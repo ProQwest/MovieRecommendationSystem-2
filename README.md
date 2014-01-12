@@ -1,4 +1,4 @@
-CS 129/296 Web Search and Information Retrieval
+Web Search and Information Retrieval
 =========
 
 Introduction
